@@ -1,0 +1,9 @@
+{
+  "SNIPPET_NAME": {
+    "prefix": "kf-input",
+    "body": [
+      "<el-input clearable size='medium' v-model.trim='' placeholder='请输入内容'></el-input>"
+    ],
+    "description": "DESCRIPTION"
+  }
+}
